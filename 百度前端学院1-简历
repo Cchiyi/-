@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>简历</title>
+</head>
+<body>
+	<h1>简历</h1>
+	<h2>个人信息</h2>
+	姓名：张三<br />
+	手机号：18600000000<br />
+	邮箱：joinnefe@baidu.com<br />
+    学历：本科 百度前端学院<br />
+    <h2>项目经验</h2>
+    <h3>项目A：</h3>
+    项目时间：2017.1-2017.8<br />
+    项目描述：在项目A中负责了xxxxx
+</body>
+</html>
